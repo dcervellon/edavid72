@@ -14,7 +14,7 @@
 
 [<img align="left" alt="twitter.com/Davesr72" width="35px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="35px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 
