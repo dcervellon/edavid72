@@ -20,13 +20,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />]
-[<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />]
-[<img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png" />]
-[<img align="left" alt="Sass" width="30px" src="https://img.icons8.com/color/48/000000/sass-avatar.png" />]
-[<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="Visual Studio Code" width="33px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />]
+[<img align="left" alt="HTML5" width="33px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />]
+[<img align="left" alt="CSS3" width="33px" src="https://img.icons8.com/color/48/000000/css3.png" />]
+[<img align="left" alt="Sass" width="33px" src="https://img.icons8.com/color/48/000000/sass-avatar.png" />]
+[<img align="left" alt="JavaScript" width="33px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />]
+[<img align="left" alt="React" width="33px" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" />]
+[<img align="left" alt="Node.js" width="33px" src="https://img.icons8.com/color/48/000000/nodejs.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
