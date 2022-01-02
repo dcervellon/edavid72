@@ -24,7 +24,6 @@
 [<img align="left" alt="Winbugs" width="45px" src="https://img.icons8.com/color/48/000000/windows-10.png" />]
 [<img align="left" alt="Mac" width="45px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />]
 <br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="45px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />]
