@@ -4,11 +4,10 @@
 
 ## I'm a Husband, Father👨‍👩‍👦, Developer👨‍💻, and Otaku🤣!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I'm looking for good job opportunities in the world of software development.
+- 🌱 I am currently learning python.
+- 👯 I love linux, especially the fedora and arch distros.
+- ⚡ Hobbies: I love good music, reading orders and watching anime, video games, well I'm a damn geek.
 <br />
 
 ### Connect with me:
