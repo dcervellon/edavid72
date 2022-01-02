@@ -26,7 +26,7 @@
 [<img align="left" alt="Sass" width="35px" src="https://img.icons8.com/color/48/000000/sass-avatar.png" />]
 [<img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />]
 [<img align="left" alt="React" width="35px" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" />]
-[<img align="left" alt="Node.js" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png" />]
+[<img align="left" alt="Node.js" width="35px" src="https://www.cleanpng.com/png-node-js-javascript-server-side-scripting-ruby-1210208/" />]
 [<img align="left" alt="SQL" width="35px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" />]
 [<img align="left" alt="MySQL" width="35px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" />]
 [<img align="left" alt="Postgresql" width="35px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />]
