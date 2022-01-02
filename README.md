@@ -20,7 +20,7 @@
 
 ### Operating Systems:
 
-[<img align="left" alt="Linux" width="45px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />]
+<img align="left" alt="Linux" width="45px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
 [<img align="left" alt="Winbugs" width="45px" src="https://img.icons8.com/color/48/000000/windows-10.png" />]
 [<img align="left" alt="Mac" width="45px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />]
 <br />
