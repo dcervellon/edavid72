@@ -19,7 +19,7 @@
 [<img align="left" alt="Instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
-
+<br />
 
 ### Operating Systems:
 
@@ -27,6 +27,7 @@
 <img align="left" alt="Winbugs" width="45px" src="https://img.icons8.com/color/48/000000/windows-10.png" />
 <img align="left" alt="Mac" width="45px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -45,6 +46,7 @@
 <img align="left" alt="GitHub" width="45px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
 <img align="left" alt="terminal" width="45px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />
 
+<br />
 <br />
 
 
