@@ -32,7 +32,7 @@
 [<img align="left" alt="Postgresql" width="35px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />]
 [<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />]
 [<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />]
-[<img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/office/30/000000/console.png" />]
+
 
 <br />
 <br />
