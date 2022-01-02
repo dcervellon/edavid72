@@ -12,8 +12,7 @@
 <br />
 
 ### Bootcamp Education:
-
-Academlo - Academia de Ciencias de la Computación e Informática
+<img align="left" alt="Linux" width="45px" src="https://media-exp1.licdn.com/dms/image/C560BAQF5ZaE7IqITiw/company-logo_200_200/0/1564837124198?e=1649289600&v=beta&t=5RuhoHlteyJ3ATLUwbQJ04E57nddJSNrvzb9xbYpvRU" />
 Full-Stack Web Developmentand Computer Science
 
 ### Connect with me:
