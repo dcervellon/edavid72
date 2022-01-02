@@ -9,26 +9,18 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
 <br />
-
 ### Connect with me:
-
 [<img align="left" alt="twitter.com/Davesr72" width="45px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="45px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-
 <br />
-
 ### Operating systems:
 [<img align="left" alt="Linux" width="45px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />]
 [<img align="left" alt="Winbugs" width="45px" src="https://img.icons8.com/color/48/000000/windows-10.png" />]
 [<img align="left" alt="Mac" width="45px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />]
-
 <br />
-
 ### Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="45px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />]
 [<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />]
 [<img align="left" alt="CSS3" width="45px" src="https://img.icons8.com/color/48/000000/css3.png" />]
@@ -42,11 +34,8 @@
 [<img align="left" alt="Git" width="45px" src="https://img.icons8.com/color/48/000000/git.png" />]
 [<img align="left" alt="GitHub" width="45px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />]
 [<img align="left" alt="terminal" width="45px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />]
-
 <br />
-
 ---
-
 [twitter]: https://twitter.com/Davesr72
 [instagram]: https://www.instagram.com/david_servell/
 [linkedin]: https://www.linkedin.com/in/david-cervellon/
