@@ -94,7 +94,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Davesr72
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
