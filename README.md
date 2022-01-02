@@ -45,17 +45,6 @@
 <br />
 <br />
 
----
-
-
----
-
-
-
----
-
-
-
 [twitter]: https://twitter.com/Davesr72
 [instagram]: https://www.instagram.com/david_servell/
 [linkedin]: https://www.linkedin.com/in/david-cervellon/
