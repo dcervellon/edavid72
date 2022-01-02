@@ -1,5 +1,4 @@
 ### Hi there, I'm David Cervellon 👋 
-<img align="right" alt="academlo" width="65px" src="https://www.academlo.com/logo_academlo.png" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Davesr72?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Davesr72)
 
