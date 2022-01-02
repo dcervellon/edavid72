@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Davesr72?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Davesr72)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father👨‍👩‍👦, Developer👨‍💻, and Otaku🤣!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
