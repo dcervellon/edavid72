@@ -10,6 +10,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="twitter.com/Davesr72" width="45px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />][twitter]
@@ -24,7 +26,6 @@
 [<img align="left" alt="Winbugs" width="45px" src="https://img.icons8.com/color/48/000000/windows-10.png" />]
 [<img align="left" alt="Mac" width="45px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />]
 
----
 <br />
 
 ### Languages and Tools:
@@ -44,10 +45,7 @@
 [<img align="left" alt="terminal" width="45px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />]
 
 <br />
-<br />
 
----
----
 ---
 
 [twitter]: https://twitter.com/Davesr72
