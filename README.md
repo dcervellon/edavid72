@@ -33,10 +33,8 @@
 [<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />]
 [<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />]
 [<img align="left" alt="terminal" width="35px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />]
-[<img align="left" alt="terminal" width="35px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />]
-[<img align="left" alt="terminal" width="35px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />]
-[<img align="left" alt="terminal" width="35px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />]
-
+[<img align="left" alt="postman" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />]
+[<img align="left" alt="dbeaver" width="35px" src="https://img.icons8.com/dusk/64/000000/dbeaver.png" />]
 
 <br />
 <br />
