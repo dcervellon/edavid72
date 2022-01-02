@@ -18,6 +18,11 @@
 
 <br />
 
+### Operating systems:
+[<img align="left" alt="Linux" width="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />]
+[<img align="left" alt="Winbugs" width="40px" src="https://img.icons8.com/color/48/000000/windows-10.png" />]
+[<img align="left" alt="Mac" width="40px" src="<img src="https://img.icons8.com/color/48/000000/mac-logo.png"/>" />]
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />]
