@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />]
+[<img align="left" alt="Visual Studio Code" width="45px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />]
 [<img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />]
 [<img align="left" alt="CSS3" width="35px" src="https://img.icons8.com/color/48/000000/css3.png" />]
 [<img align="left" alt="Sass" width="35px" src="https://img.icons8.com/color/48/000000/sass-avatar.png" />]
