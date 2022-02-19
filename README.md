@@ -7,7 +7,7 @@
 - 🔭 I'm looking for good job opportunities in the world of software development.
 - 🌱 I am currently learning python.
 - 👯 I love linux, especially the fedora and arch distros.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: I love good music, reading orders and watching anime, video games, well I'm a damn geek.
 <br />
 
