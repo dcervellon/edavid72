@@ -13,7 +13,7 @@
 
 ### Bootcamp Education:
 
-<img align="left" alt="Linux" width="45px" src="https://www.google.hn/url?sa=i&url=https%3A%2F%2Fciberseguridadenlinea.com%2Faprende-programacion-y-desarrollo-de-software-y-paga-cuando-tengas-empleo%2F&psig=AOvVaw3OX07140ugOuu7YmbUuus0&ust=1650055851009000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjq7pi3lPcCFQAAAAAdAAAAABAD" />
+<img align="left" alt="Linux" width="45px" src="https://www.academlo.com/logo_academlo.png" />
 
 ### Academlo
 - Full-Stack Web Developmentand Computer Science
