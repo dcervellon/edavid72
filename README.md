@@ -1,62 +1,32 @@
-# Hi there, I'm David Cervellon 👋 
+# 💫 About Me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Davesr72?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Davesr72)
+🔭 I'm looking for good job opportunities in the world of software development.<br>🌱 I am currently learning python.<br>👯 I love linux, especially the fedora and arch distros.<br>🥅 2023 Goals: Contribute more to Open Source projects<br>⚡ Hobbies: I love good music, reading orders and watching anime, video games, well I'm a damn geek.
 
-## I'm a Husband, Father👨‍👩‍👦, Developer👨‍💻, and Otaku🤣!!
+## 🌐 Socials:
 
-- 🔭 I'm looking for good job opportunities in the world of software development.
-- 🌱 I am currently learning python.
-- 👯 I love linux, especially the fedora and arch distros.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: I love good music, reading orders and watching anime, video games, well I'm a damn geek.
-<br />
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/david.serpal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david_servell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcervellon) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/edavidsp72) [](https://stackoverflow.com/users/david-cervellon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Davesr72)
 
-### Bootcamp Education:
+# 💻 Tech Stack:
 
-<img align="left" alt="Linux" width="45px" src="https://www.academlo.com/logo_academlo.png" />
+            ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expressjs](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Academlo
-- Full-Stack Web Developmentand Computer Science
+# 📊 GitHub Stats:
 
-### Connect with me:
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=edavid72&theme=nord&hide_border=false)<br/>
 
-[<img align="left" alt="twitter.com/Davesr72" width="45px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="45px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+## 🏆 GitHub Trophies
 
-<br />
-<br />
+![](https://github-profile-trophy.vercel.app/?username=edavid72&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### Operating Systems:
+## 🐦 Latest Tweet
 
-<img align="left" alt="Linux" width="45px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
-<img align="left" alt="Winbugs" width="45px" src="https://img.icons8.com/color/48/000000/windows-10.png" />
-<img align="left" alt="Mac" width="45px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />
+[](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<br />
-<br />
+### ✍️ Random Dev Quote
 
-### Languages and Tools:
+### 😂 Random Dev Meme
 
-<img align="left" alt="Visual Studio Code" width="45px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="left" alt="CSS3" width="45px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="Sass" width="45px" src="https://img.icons8.com/color/48/000000/sass-avatar.png" />
-<img align="left" alt="JavaScript" width="45px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="React" width="45px" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" />
-<img align="left" alt="Node.js" width="45px" src="https://img.icons8.com/color/96/000000/nodejs.png" />
-<img align="left" alt="SQL" width="45px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" />
-<img align="left" alt="MySQL" width="45px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" />
-<img align="left" alt="Postgresql" width="45px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-<img align="left" alt="Git" width="45px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="GitHub" width="45px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
-<img align="left" alt="terminal" width="45px" src="https://img.icons8.com/plasticine/100/000000/bash.png" />
+---
 
-<br />
-<br />
-
-
-[twitter]: https://twitter.com/Davesr72
-[instagram]: https://www.instagram.com/david_servell/
-[linkedin]: https://www.linkedin.com/in/david-cervellon/
-
+[![](https://visitcount.itsvg.in/api?id=edavid72&icon=2&color=0)
